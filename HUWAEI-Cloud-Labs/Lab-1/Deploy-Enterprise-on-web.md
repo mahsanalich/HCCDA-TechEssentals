@@ -82,5 +82,5 @@ To handle traffic fluctuations:
   - Track **CPU, disk I/O, and network metrics**.
   - Set up alarms for resource thresholds.
     
-  (<img width="913" height="564" alt="13" src="https://github.com/wakeel7/HCCDA-TechEssentials/blob/ed1ee7dce16773702a7077b8d4685f156f54e27f/cloud-labs/lab-1/Images/Screenshot%202025-07-28%20223432.png" />
+  <img width="913" height="564" alt="13" src="https://github.com/wakeel7/HCCDA-TechEssentials/blob/ed1ee7dce16773702a7077b8d4685f156f54e27f/cloud-labs/lab-1/Images/Screenshot%202025-07-28%20223432.png" />
 <img width="907" height="547" alt="12" src="https://github.com/wakeel7/HCCDA-TechEssentials/blob/ed1ee7dce16773702a7077b8d4685f156f54e27f/cloud-labs/lab-1/Images/Screenshot%202025-07-28%20223420.png" />
